@@ -1,6 +1,6 @@
 # li-net
 
-Li package li-net
+*Networking for Li — sockets and protocols for distributed HPC and scientific computing (lip).*
 
 ## Build
 
