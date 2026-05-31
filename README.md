@@ -1,4 +1,4 @@
-# li-net
+﻿# li-net
 
 Li package li-net
 
@@ -22,4 +22,4 @@ See `PUBLISH.md`, [docs/handbook.md](docs/handbook.md), and [live handbook](http
 
 ## License
 
-Apache-2.0 OR MIT
+GPL-3.0-or-later OR MIT
