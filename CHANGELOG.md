@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- Toolchain pin: `lic` → tag `studio-verticals-demo-test-dry` (`98cdd7c`) in `li-toolchain.toml`.
 - GitHub repo description and README tagline (WP-A4); `.github/repo-description`.
 
 ### Added
