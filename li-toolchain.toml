@@ -1,4 +1,5 @@
-# Pin lic / lit for reproducible CI (Phase 8-sync).
+# Pin lic / lit for reproducible CI (synced from lic @ 55defd82).
 [toolchain]
-lic_version = "0.1.0"
+lic_version = "studio-demo-2026-05-24"
+lic_commit = "55defd82878884ff46de304778741691d2ef1671"
 lit_version = "0.1.0"

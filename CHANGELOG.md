@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- Ecosystem: bump `lic_version` pin to `studio-demo-2026-05-24` (upstream `li-langverse/lic` release).
 - GitHub repo description and README tagline (WP-A4); `.github/repo-description`.
 
 ### Added
