@@ -1,4 +1,5 @@
-# Pin lic / lit for reproducible CI (Phase 8-sync).
+# Pin lic / lit for reproducible CI (synced from lic @ studio-verticals-demo-test-dry / 98cdd7c).
 [toolchain]
 lic_version = "0.1.0"
+lic_commit = "98cdd7c684dd88f734356eca71bfc35cfd584557"
 lit_version = "0.1.0"
